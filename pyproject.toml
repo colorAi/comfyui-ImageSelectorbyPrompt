@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-ImageSelectorbyPrompt"
+description = "Functionally similar to a switch, it connects images for later use, allowing users to select the output image based on keywords in the prompts. It's suitable for batch production, assigning different characters or scenes to each shot."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+authors = [{name = "HooToo"}]
+dependencies = [ ]
+
+[project.urls]
+Repository = "https://github.com/colorAi/comfyui-ImageSelectorbyPrompt"
+
+[tool.comfyui]
+PublisherId = "HooToo"
+DisplayName = "comfyui-ImageSelectorbyPrompt"
+Icon = ""
